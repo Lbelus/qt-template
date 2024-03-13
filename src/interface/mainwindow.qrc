@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/images">
+        <!-- Assuming you have an image named 'logo.png' in a 'resources/images' directory relative to your .qrc file -->
+        <file>../../ressources/images/logo.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+prefix=@PREFIX@
+exec_prefix=@EXEC_PREFIX@bin
+libdir=@LIBDIR@lib
+includedir=@INCLUDEDIR@include
+
+Name: @PROJECT_NAME@
+Description: a template to create and compile qt projects.
+Version: @PROJECT_VERSION@
+Libs: -L${libdir} -lprojectqt
+Cflags: -I${includedir}
