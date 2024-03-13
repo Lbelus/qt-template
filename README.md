@@ -22,7 +22,7 @@ Build the image:
 docker build -t qt-dev-env .
 ```
 
-### Compile and your program
+### Compile and run your program
 
 
 - from MobaXterm, remote connect to your server using ssh.
